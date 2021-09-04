@@ -2,6 +2,7 @@ absl-py==0.13.0
 argon2-cffi==21.1.0
 astunparse==1.6.3
 attrs==21.2.0
+autopep8==1.5.7
 backcall==0.2.0
 bleach==4.1.0
 cachetools==4.2.2
@@ -63,6 +64,7 @@ prompt-toolkit==3.0.20
 protobuf==3.17.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycodestyle==2.7.0
 pycparser==2.20
 Pygments==2.10.0
 pyparsing==2.4.7
@@ -86,6 +88,7 @@ tensorflow-estimator==2.6.0
 termcolor==1.1.0
 terminado==0.11.1
 testpath==0.5.0
+toml==0.10.2
 tornado==6.1
 traitlets==5.1.0
 typing-extensions==3.7.4.3
