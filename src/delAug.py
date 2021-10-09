@@ -10,10 +10,8 @@ CATEGORIES = ['clementine', 'grapefruit', 'orange']
 
 AUGMENT_SAVE_PREFIX = 'aug'
 
-
 def delAug():
     try:
-
         print("Deleting Augment")
 
         for subfolder in os.listdir(IMAGE_DIR):
