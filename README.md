@@ -57,6 +57,8 @@ code .
 ![image](https://user-images.githubusercontent.com/50941709/136657136-b0775ab0-1e89-4e6d-8c80-12507232ee36.png)
 
 เลือกอันนี้
+---
+
 ![image](https://user-images.githubusercontent.com/50941709/136657157-b56ede9e-078c-4d49-80f1-00517a026376.png)
 
 ---
