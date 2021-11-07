@@ -1,1 +1,5 @@
 venv
+*.ipynb_checkpoints
+src/Model/**/*.pb
+src/Model/**/*.index
+src/Model/**/*.data-00000-of-00001
