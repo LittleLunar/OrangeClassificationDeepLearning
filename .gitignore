@@ -3,3 +3,5 @@ venv
 src/Model/**/*.pb
 src/Model/**/*.index
 src/Model/**/*.data-00000-of-00001
+src/Model/**/*.json
+src/Model/**/*.h5
